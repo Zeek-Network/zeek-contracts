@@ -1,0 +1,16 @@
+{
+  "askWish((uint256))": "06c5399f",
+  "bidWish((uint256))": "e152bcfb",
+  "cutWish((uint256,uint256))": "85bd7ebd",
+  "getWish(uint256)": "202cbac2",
+  "getWishRatios()": "8cdf4f37",
+  "getWishToken(address)": "bde1c45a",
+  "issueWish((uint8,bool,(address,uint256,uint256),uint64,uint64,uint256))": "ca745f7f",
+  "issueWishPlug((uint8,bool,(address,uint256,uint256),uint64,uint64,uint256),address)": "e07e360a",
+  "modifyWish((uint256,uint256,uint64))": "f83c213a",
+  "offerRatios(uint256)": "baea7a77",
+  "offerRatiosByType(uint8,uint256)": "8d67acae",
+  "offerWish((uint256,address,address,uint64,uint256),(bytes,uint64))": "48e2b8be",
+  "refundWish((uint256))": "b55fec59",
+  "unlockWish((uint256,address,uint256,uint256,uint64))": "2bb985ba"
+}

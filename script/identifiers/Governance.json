@@ -1,0 +1,22 @@
+{
+  "DEFAULT_ADMIN_ROLE()": "a217fddf",
+  "eip712Domain()": "84b0196e",
+  "getRoleAdmin(bytes32)": "248a9ca3",
+  "grantRole(bytes32,address)": "2f2ff15d",
+  "hasRole(bytes32,address)": "91d14854",
+  "initialize(string,string)": "4cd88b76",
+  "renounceRole(bytes32,address)": "36568abe",
+  "revokeRole(bytes32,address)": "d547741f",
+  "setBidRatio(uint256,uint256,uint256,uint256)": "85272709",
+  "setCutDecimals(address,uint256)": "a0cce639",
+  "setEarlyUnlockRatio(uint256,uint256,uint256)": "aaa24b20",
+  "setEarlyUnlockTokens(address,uint256,uint256,bool)": "6b793add",
+  "setFinance(address)": "9b8d3064",
+  "setLinkOfferRatios(uint8[],(uint256,uint256,uint256)[])": "76e8651b",
+  "setMinimumIssueTokens(address,uint256,uint256,bool)": "ad36b68a",
+  "setOfferRatios(uint8[],(uint256,uint256,uint256)[])": "bff5b2e3",
+  "setUnlockRatio(uint256,uint256,uint256,uint256)": "448952c4",
+  "setUnlockTokens(address,uint256,uint256,bool)": "8d64e1dd",
+  "supportsInterface(bytes4)": "01ffc9a7",
+  "whitelistApp(address,bool)": "5b61491f"
+}
