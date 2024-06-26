@@ -3,6 +3,7 @@
 cache
 artifacts
 node_modules
+broadcast
 dist/
 build/
 .vscode
